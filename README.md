@@ -157,7 +157,6 @@ jupyter notebook notebooks/Netflix_Analysis.ipynb
 
 ---
 
-
 ## 🙏 Acknowledgements
 
 Dataset sourced from **Kaggle** — Netflix Movies and TV Shows Dataset.
