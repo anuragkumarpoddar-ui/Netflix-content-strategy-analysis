@@ -147,7 +147,6 @@ jupyter notebook notebooks/Netflix_Analysis.ipynb
 
 ---
 
-
 ## 👤 Author
 
 **Anurag Kumar Poddar**
